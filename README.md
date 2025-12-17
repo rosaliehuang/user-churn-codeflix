@@ -1,6 +1,6 @@
 # Codecademy SQL Projects
 
-This repository is a collection of SQL case studies inspired by hands-on [codecademy.com](https://www.codecademy.com) projects and foundational data challenges. Each case study demonstrates practical SQL query writing, problem-solving, and business insight. This is designed to show how I turn raw data into clear, actionable analysis.
+This repository is a collection of SQL case studies inspired by hands-on [codecademy](https://www.codecademy.com) projects and foundational data challenges. Each case study demonstrates practical SQL query writing, problem-solving, and business insight. This is designed to show how I turn raw data into clear, actionable analysis.
 
 ---
 
@@ -12,7 +12,7 @@ This repository is a collection of SQL case studies inspired by hands-on [codeca
 
 ## ✍️ About This Series
 
-These case studies are part of my SQL learning journey, combining [codecademy.com](https://www.codecademy.com) project prompts with my own structure and insights. Each one includes:
+These case studies are part of my SQL learning journey, combining [codecademy](https://www.codecademy.com) project prompts with my own structure and insights. Each one includes:
 
 - Business context and objectives  
 - SQL queries with explanations  
