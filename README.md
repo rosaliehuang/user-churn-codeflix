@@ -25,13 +25,6 @@ This project analyzes subscription churn trends for a fictional streaming servic
 
 This means Codeflix has about 4 months of subscription data. Churn can be measured from **January to March 2017**.
 
----
-- **Company Start Date:** Based on subscription_start, operations started in late 2016.
-- **Churn Calculated For:**
-| Earliest Start | Latest End |
-|----------------|------------|
-| 2016-12-01     | 2017-03-31 |
-
 **User Segments**: Codeflix has two user segments (87 and 30). These likely represent different acquisition channels (e.g. paid ads vs organic).
 
 **Monthly Churn Rates**
